@@ -1,3 +1,5 @@
-openai
 sqlalchemy
 psycopg2-binary
+Flask
+openai>=1.0.0
+prisma-client-py
